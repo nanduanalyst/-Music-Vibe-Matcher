@@ -7,7 +7,7 @@ The application recommends tracks based on the **audio characteristics and music
 ---
 ## 🌐 Live Demo
 
-👉 [🚀 Try the Movie Recommendation System](https://cbmf4vuewyqdkohsrxuwal.streamlit.app)
+👉 [🚀 Try the Spotify Music Vibe Matcher Recommendation System](https://cbmf4vuewyqdkohsrxuwal.streamlit.app)
 
 
 ## 🎧 Project Overview
